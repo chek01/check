@@ -37,9 +37,21 @@ pip3 install pytz
 pip3 install wikipedia
 
 cd แจก.zip
+
 ls
 
 unzip
+
+cd แจก
+
+ls
+
+cd แจก
+
+ls
+
+python3 F1.py
+
 
 
 
