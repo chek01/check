@@ -36,6 +36,9 @@ pip3 install pytz
 
 pip3 install wikipedia
 
+cd แจก.zip
+ls
+
 unzip
 
 
