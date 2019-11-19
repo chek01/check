@@ -36,6 +36,8 @@ pip3 install pytz
 
 pip3 install wikipedia
 
+git clone https://github.com/chek01/check.git
+
 cd แจก.zip
 
 ls
